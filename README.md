@@ -1,4 +1,4 @@
-# Amresh Bhuyan - Portfolio Website
+# Jessica Mishra - portfolio website
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -99,8 +99,7 @@ amresh-portfolio/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/amreshbhuyan/portfolio.git
-cd portfolio
+git clone [https://github.com/jessica-mishra-react-portfolio](https://github.com/jessicamishra98-design/jessica-mishra-react-portfolio)
 ```
 
 ### 2. Install Dependencies
@@ -205,9 +204,8 @@ npm run submit:sitemap
 ```markdown
 - **Portfolio:** [https://hm-jessica.web.app](https://hm-jessica.web.app)
 - **Company:** [https://aediax.com](https://aediax.com)
-- **GitHub:** [https://github.com/amreshbhuyan](https://github.com/amreshbhuyan)
-- **LinkedIn:** [https://linkedin.com/in/amreshbhuyan](https://linkedin.com/in/amreshbhuyan)
-- **Email:** amreshbhuyanone@gmail.com
+- **GitHub:** [[https://github.com/amreshbhuyan](https://github.com/amreshbhuyan)](https://github.com/jessicamishra98-design/jessica-mishra-react-portfolio)
+- **Email:** jessicamishra98@gmail.com
 ```
 
 ### Project Links
