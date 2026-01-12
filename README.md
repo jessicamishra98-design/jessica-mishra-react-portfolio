@@ -243,7 +243,7 @@ For any queries or collaborations:
 Name: Jessica Mishra
 Role: Student & Web intern
 Email: jessicamishra98@gmail.com
-Official: jessicamishra@gmail.com
+Official: jessicamishra98@gmail.com
 Phone: +91 9692724661 (WhatsApp)
 Website: https://hm-jessica.web.app
 ```
