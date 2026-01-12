@@ -204,7 +204,7 @@ npm run submit:sitemap
 ```markdown
 - **Portfolio:** [https://hm-jessica.web.app](https://hm-jessica.web.app)
 - **Company:** [https://aediax.com](https://aediax.com)
-- **GitHub:** [[https://github.com/amreshbhuyan](https://github.com/amreshbhuyan)](https://github.com/jessicamishra98-design/jessica-mishra-react-portfolio)
+- **GitHub:** [(https://github.com/jessicamishra98-design/jessica-mishra-react-portfolio)]
 - **Email:** jessicamishra98@gmail.com
 ```
 
