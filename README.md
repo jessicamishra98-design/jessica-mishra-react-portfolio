@@ -233,7 +233,7 @@ npm run submit:sitemap
 
 ## 📝 License
 
-This project is proprietary and owned by Amresh Bhuyan. All rights reserved.
+This project is proprietary and owned by Jessica Mishra. All rights reserved.
 
 ## 🤝 Contact
 
